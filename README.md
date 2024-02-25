@@ -10,6 +10,8 @@ Este repositorio contiene los apuntes y notas realizados durante mi aprendizaje 
 
 Me gustaría agradecer a MongoDB University por ofrecer esta ruta de aprendizaje enriquecedora. Ha sido una experiencia de aprendizaje valiosa y ha fortalecido mi comprensión de esta base de datos no relacional.
 
+![image](https://github.com/sebasgrandes/apuntes-mongodb/assets/105091502/40e3f91e-2ff1-45d7-b415-646227d24abf)
+
 ---
 
 ¡Gracias por visitar mi repositorio de apuntes!
