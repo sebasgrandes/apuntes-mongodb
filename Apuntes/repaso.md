@@ -1,4 +1,4 @@
-# Repaso EXAMEN
+# Repaso
 
 -   $lookup: tipo join de colecciones
 -   $out: retorna los resultados en una nueva coleccion
